@@ -1,5 +1,5 @@
 class Main {
     public static void main(String[] coolArgs) {
-        new Main().run(); // runs t
+        new EquationCalculator().run(); // runs the calculator
     }
 }
